@@ -1,0 +1,19 @@
+#.gitignore
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.iml
+
+*.png
+
+dependency-reduced-pom.xml
+target
+.project
+.settings
+.classpath
+.cache
+.idea
